@@ -103,7 +103,7 @@ SSH into the control node and follow the steps below:
 - Add the private IP's of the desired machines under "#servers"
 
 # Which URL do you navigate to in order to check that the ELK server is running?
-- http://20.119.66.170:5601/app/kibana
+- http://20.119.66.170:5601/app/kibana     ( [ELK server public IP]:5601/app/kibana )
 
 - ansible-playbook configure-ELK.yml  (Run playbook)
 - nano hosts                          ( Edit hosts file)
