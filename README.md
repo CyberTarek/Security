@@ -70,7 +70,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-~/Pictures/dockerps
+![Alt text](~/Pictures/dockerps)
 
 ### Target Machines & Beats
 
