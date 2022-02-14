@@ -104,7 +104,6 @@ SSH into the control node and follow the steps below:
 
 # Which URL do you navigate to in order to check that the ELK server is running?
 - http://20.119.66.170:5601/app/kibana
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
 
 - ansible-playbook configure-ELK.yml  (Run playbook)
 - nano hosts                          ( Edit hosts file)
